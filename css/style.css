@@ -1,0 +1,102 @@
+/*
+	google font
+*/
+
+/*global css*/
+
+h1{
+ text-align: center;
+    padding-left: : 50px;
+    width: 100%;
+    
+
+}	
+p{
+	text-align: center;
+
+}
+.col-md-1{
+	padding: 0;
+}
+/* header section css */
+
+
+header{
+	width: 100%;
+	padding: 30px 0px; 
+}
+header .cart ul li{
+	list-style: none;
+	display: inline-block;
+	padding-left: 10px;
+}
+
+
+.img-one{
+	padding-bottom :10px;
+}
+
+/* box css*/
+.color-box{
+	display: flex;
+}
+.box-one{
+	height: 40px;
+	width: 40px;
+	border-radius: 50px;
+	background: pink;
+	margin-left: 20px;
+}
+.box-two{
+	height: 40px;
+	width: 40px;
+	border-radius: 50px;
+	background: yellow;
+	margin-left: 20px;
+}
+.box-three{
+	height: 40px;
+	width: 40px;
+	border-radius: 50px;
+	background: green;
+	margin-left: 20px;
+}
+.box-four{
+	height: 40px;
+	width: 40px;
+	border-radius: 50px;
+	background: black;
+	margin-left: 20px;
+}
+.box-five{
+	height: 40px;
+	width: 40px;
+	border-radius: 50px;
+	background: gray;
+	margin-left: 20px;
+}
+.measure{
+	padding-bottom: 10px;
+}
+.feature-section{
+	display: inline-block;
+	/* list-style: none; */
+	padding: 10px;
+	margin-inline-end: initial;
+}
+.feature{
+	display: inline-block;
+	height: 40px;
+    padding: 30px  ;
+	width: 100%;
+	
+
+}
+section .informaton-feature{
+	display: inline-block;
+	padding-bottom: 20px;
+
+}
+form .option{
+	text-align: center; 
+}
